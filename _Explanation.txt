@@ -1,0 +1,5 @@
+Shortcut goes to Run PP & Sync - Pre.
+
+Runs all the Pre files. Songs -> Prefs.
+Runs PP6.
+Runs all the normal files. Songs -> Prefs -> Media.

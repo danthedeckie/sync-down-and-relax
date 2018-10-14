@@ -1,0 +1,1 @@
+robocopy "I:\Public Ministries\Events\08_AV\-- Playout Media" "c:\-- Playout Media" /mir
